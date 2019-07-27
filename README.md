@@ -8,7 +8,7 @@ You can retrieve this image directly on Docker Hub https://hub.docker.com/r/sifr
 `docker pull sifrah/docker-nginx-unprivileged-alpine`
 
 ## How to use this image ?
-If you want dockerize a simple web project you can use this image in you Dockerfile
+If you want dockerize a simple web project you can use this image in your Dockerfile
 ```
 FROM sifrah/docker-nginx-unprivileged-alpine
 MAINTAINER Sacha Ifrah <ifrah.sacha@gmail.com>
